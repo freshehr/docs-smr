@@ -1,4 +1,5 @@
-# Welcome to the NWIS Shared Medication Record Project
+# Welcome
+Welcome to the NWIS Shared Medication Record Project
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
